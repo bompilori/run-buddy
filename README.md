@@ -12,3 +12,5 @@ https://bompilori.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Santiago
+
+# Run Buddy Inc.
